@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #devpanel
 #Copyright (C) 2018 devpanel
 
@@ -14,9 +16,6 @@
 #You should have received a copy of the GNU General Public License
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-
-
-#!/bin/bash
 
 #=== Change in here!!!
 GIT_URL=https://git-codecommit.us-west-1.amazonaws.com/v1/repos/drupal_client
